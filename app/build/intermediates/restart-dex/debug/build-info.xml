@@ -4,29 +4,34 @@
     api-level="17"
     density="hdpi"
     format="7"
-    timestamp="18581462885792" >
+    timestamp="25706588013791" >
 
     <task
         name="javac"
-        duration="359" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="134" />
+        duration="0" />
     <task
         name="verifier"
-        duration="190" />
+        duration="0" />
 
     <artifact
-        location="D:\Android Project\DemoProject\Android--10-steps-to-integrate-dropbox-api--demo-project-master\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="D:\Android Project\DemoProject\Android--10-steps-to-integrate-dropbox-api--demo-project-master\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="18581462885792" >
+    <build timestamp="25559972818694" >
         <artifact
             location="D:\Android Project\DemoProject\Android--10-steps-to-integrate-dropbox-api--demo-project-master\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="25706588013791" >
+        <artifact
+            location="D:\Android Project\DemoProject\Android--10-steps-to-integrate-dropbox-api--demo-project-master\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

@@ -8,7 +8,7 @@
     <string name="download">Download</string>
     <string name="drop_box">DropBox</string>
     <string name="dropbox">dropbox</string>
-    <string name="upload_photo">Upload Photo</string>
+    <string name="upload_photo">Upload CSV File</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in
