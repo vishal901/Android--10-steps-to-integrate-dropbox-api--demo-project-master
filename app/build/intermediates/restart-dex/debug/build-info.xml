@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="17"
+    density="hdpi"
+    format="7"
+    timestamp="18581462885792" >
+
+    <task
+        name="javac"
+        duration="359" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="134" />
+    <task
+        name="verifier"
+        duration="190" />
+
+    <artifact
+        location="D:\Android Project\DemoProject\Android--10-steps-to-integrate-dropbox-api--demo-project-master\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="18581462885792" >
+        <artifact
+            location="D:\Android Project\DemoProject\Android--10-steps-to-integrate-dropbox-api--demo-project-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

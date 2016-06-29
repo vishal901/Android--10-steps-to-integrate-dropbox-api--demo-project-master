@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android Project\DemoProject\Android--10-steps-to-integrate-dropbox-api--demo-project-master\app\libs\json_simple-1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="D:\Android Project\DemoProject\Android--10-steps-to-integrate-dropbox-api--demo-project-master\app\build\intermediates\pre-dexed\debug\json_simple-1.1_136dc372f6997aeb09b99439e080e5b6ab158313.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\DemoProject\Android--10-steps-to-integrate-dropbox-api--demo-project-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="826902df05d2fa81b211dca14f0ce2b639298d83">
+        <dex dex="D:\Android Project\DemoProject\Android--10-steps-to-integrate-dropbox-api--demo-project-master\app\build\intermediates\pre-dexed\debug\instant-run_8787ec2e02b9bf7571e4c7dc3e75ffef4519c3ef.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\DemoProject\Android--10-steps-to-integrate-dropbox-api--demo-project-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="15555b53a4d4eea7813e97da43e2119df2028ec0">
+        <dex dex="D:\Android Project\DemoProject\Android--10-steps-to-integrate-dropbox-api--demo-project-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_17f78859b0ca366560240ed13075333a2114c3df.jar" />
+    </item>
+    <item
+        jar="D:\software\dev\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Android Project\DemoProject\Android--10-steps-to-integrate-dropbox-api--demo-project-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_40f943646c5b24dee1f364951a2bef8aa6c31f06.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\DemoProject\Android--10-steps-to-integrate-dropbox-api--demo-project-master\app\libs\dropbox-android-sdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d92ccc13a8ba6cd8dd00fadb63194b47b50d335a">
+        <dex dex="D:\Android Project\DemoProject\Android--10-steps-to-integrate-dropbox-api--demo-project-master\app\build\intermediates\pre-dexed\debug\dropbox-android-sdk_217f23283ce6bc9202a5887a74be235870f686ad.jar" />
+    </item>
+
+</items>
